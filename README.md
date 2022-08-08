@@ -2,15 +2,18 @@
 
 - [Index](#index)
   - [Licenses & certifications](#licenses--certifications)
-    - [React.js, React Native, Redux & Next.js](#reactjs-react-native-redux--nextjs)
-    - [JavaScript](#javascript)
+    - [React.js, React Native, Redux and Next.js](#reactjs-react-native-redux-and-nextjs)
+    - [JavaScript & TypeScript](#javascript--typescript)
     - [Responsive Design with HTML and CSS](#responsive-design-with-html-and-css)
+    - [Other Libraries and Frameworks](#other-libraries-and-frameworks)
+    - [Git, GitHub and GitLab](#git-github-and-gitlab)
+    - [Scrum](#scrum)
   - [Academic Education](#academic-education)
   - [Languages](#languages)
 
 ## Licenses & certifications
 
-### React.js, React Native, Redux & Next.js
+### React.js, React Native, Redux and Next.js
 
 - **Modern React with Redux** - _[Udemy](https://www.udemy.com/),_ _coursework: 52.5 hours_ :paperclip: [Show credential](https://www.udemy.com/certificate/UC-f530b52c-b9e0-42d2-899a-b57769d91ed2/)
 - **React Native + Hooks** - _[Udemy](https://www.udemy.com/),_ _coursework: 38.5 hours_ :paperclip: [Show credential](https://www.udemy.com/certificate/UC-08fdeb93-3036-4ce0-9d6e-db3e3528d2e8/)
@@ -20,7 +23,7 @@
 - **React.js States & Effects** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/7F7468CA/share)
 - **Mobile Apps with React Native** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 4 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/0997087F/share)
   
-### JavaScript
+### JavaScript & TypeScript
 
 - **JavaScript Algorithms and Data Structures** - _[freeCodeCamp](https://www.freecodecamp.org/),_ _coursework: 300 hours_ :paperclip: [Show credential](https://www.freecodecamp.org/certification/thiagocabralcorreia/javascript-algorithms-and-data-structures)
 - **Advanced JavaScript ES6** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 5 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/E2D90B5E/share)
@@ -28,6 +31,7 @@
 - **Web Programming with JavaScript** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/CE61D5EE/share)
 - **Algorithms and Data Structures** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/4B71913F/share)
 - **JavaScript Introduction** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 3 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/F561EEC0/share)
+- **TypeScript Introduction** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/C35B63A0/share)
 
 ### Responsive Design with HTML and CSS
 
@@ -36,6 +40,21 @@
 - **CSS Flexible Box Layout** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 4 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/9E261E48/share)
 - **Responsiveness and User Experience** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 1 hour_ :paperclip: [Show credential](https://www.dio.me/certificate/E0738941/share)
 - **First Steps for Web Development** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 6 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/5CD4E20F/share)
+
+### Other Libraries and Frameworks
+
+- **Building web pages with Bootstrap** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 4 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/4DB3D461/share)
+- **jQuery Introduction** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/16B7211A/share)
+
+### Git, GitHub and GitLab
+
+- **Git and GitHub Introduction** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 5 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/5CB80503/share)
+- **Working with GitHub Branch** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 4 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/2BF41D03/share)
+- **Working with GitHub and GitLab** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/45531E7B/share)
+
+### Scrum
+
+- **Agile Projects with Scrum** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/D5E81644/share)
 
 ## Academic Education
 
