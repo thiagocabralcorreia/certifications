@@ -26,12 +26,16 @@
 ### JavaScript & TypeScript
 
 - **JavaScript Algorithms and Data Structures** - _[freeCodeCamp](https://www.freecodecamp.org/),_ _coursework: 300 hours_ :paperclip: [Show credential](https://www.freecodecamp.org/certification/thiagocabralcorreia/javascript-algorithms-and-data-structures)
+- **JavaScript & TypeScript** - _[Udemy](https://www.udemy.com/),_ _coursework: 146 hours_ :paperclip: [Show credential](https://udemy-certificate.s3.amazonaws.com/pdf/UC-003083e2-da8f-4356-90b6-ac0d69d72165.pdf)
 - **Advanced JavaScript ES6** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 5 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/E2D90B5E/share)
 - **Essential ES6 JavaScript** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 4 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/DF5FBE05/share)
 - **Web Programming with JavaScript** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/CE61D5EE/share)
 - **Algorithms and Data Structures** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/4B71913F/share)
 - **JavaScript Introduction** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 3 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/F561EEC0/share)
 - **TypeScript Introduction** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/C35B63A0/share)
+
+### Node.js
+- **Node.js** - _[Udemy](https://www.udemy.com/),_ _coursework: 35 hours_ :paperclip: [Show credential](https://udemy-certificate.s3.amazonaws.com/image/UC-0709ce25-6537-473a-997b-df1c1614da97.jpg?v=1681903667000)
 
 ### Responsive Design with HTML and CSS
 
