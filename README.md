@@ -22,7 +22,7 @@
 - **React.js + Hooks Introduction** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 5 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/581784D4/share)
 - **React.js States & Effects** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/7F7468CA/share)
 - **Mobile Apps with React Native** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 4 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/0997087F/share)
-  
+
 ### JavaScript & TypeScript
 
 - **JavaScript Algorithms and Data Structures** - _[freeCodeCamp](https://www.freecodecamp.org/),_ _coursework: 300 hours_ :paperclip: [Show credential](https://www.freecodecamp.org/certification/thiagocabralcorreia/javascript-algorithms-and-data-structures)
@@ -35,6 +35,7 @@
 - **TypeScript Introduction** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/C35B63A0/share)
 
 ### Node.js
+
 - **Node.js** - _[Udemy](https://www.udemy.com/),_ _coursework: 35 hours_ :paperclip: [Show credential](https://udemy-certificate.s3.amazonaws.com/image/UC-0709ce25-6537-473a-997b-df1c1614da97.jpg?v=1681903667000)
 
 ### Responsive Design with HTML and CSS
@@ -58,11 +59,12 @@
 
 ### Scrum
 
-- **Agile Projects with Scrum** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/D5E81644/share)
+- **Agile Projects with Scrum** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip:
+  [Show credential](https://www.dio.me/certificate/D5E81644/share)
 
 ## Academic Education
 
-- **Bachelor's degree, Advertising and Marketing** - _[Unifor, University of Fortaleza](https://www.unifor.br/) (Brazil) 2004-2008_
+- **Bachelor's degree, Advertising and Marketing** - _[Unifor, University of Fortaleza](https://www.unifor.br/) (Brazil) 2004-2008_ :paperclip: [Show credential](https://github.com/thiagocabralcorreia/certifications/blob/main/public/bachelor.jpg)
 
 ## Languages
 
