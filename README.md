@@ -7,6 +7,7 @@
     - [Responsive Design with HTML and CSS](#responsive-design-with-html-and-css)
     - [Other Libraries and Frameworks](#other-libraries-and-frameworks)
     - [Git, GitHub and GitLab](#git-github-and-gitlab)
+    - [UI/UX](#ui--ux)
     - [Scrum](#scrum)
   - [Academic Education](#academic-education)
   - [Languages](#languages)
@@ -57,6 +58,11 @@
 - **Working with GitHub Branch** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 4 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/2BF41D03/share)
 - **Working with GitHub and GitLab** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip: [Show credential](https://www.dio.me/certificate/45531E7B/share)
 
+### UI/UX
+
+- **Introduction to Design Systems** - _[Domestika](https://www.domestika.org),_ _coursework: 5 hours_ :paperclip: [Show credential](https://www.domestika.org/en/certificates/27c5cbe82f6eba0728e56852f7251d0d)
+- **Introduction to UX Design** - _[Domestika](https://www.domestika.org),_ _coursework: 3 hours_ :paperclip: [Show credential](https://www.domestika.org/en/certificates/37558c09717528bef1db19cdee1d6c95)
+
 ### Scrum
 
 - **Agile Projects with Scrum** - _[DIO (Digital Innovation One)](https://web.dio.me/browse),_ _coursework: 2 hours_ :paperclip:
@@ -64,7 +70,8 @@
 
 ## Academic Education
 
-- **Bachelor's degree, Advertising and Marketing** - _[Unifor, University of Fortaleza](https://www.unifor.br/) (Brazil) 2004-2008_ :paperclip: [Show credential](https://github.com/thiagocabralcorreia/certifications/blob/main/public/bachelor.jpg)
+- **Bachelor's degree, Advertising and Marketing** - _[Unifor, University of Fortaleza](https://www.unifor.br/) (Brazil) 2004-2008_ :paperclip:
+  [Show credential](https://github.com/thiagocabralcorreia/certifications/blob/main/public/bachelor.png)
 
 ## Languages
 
